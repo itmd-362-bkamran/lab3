@@ -17,6 +17,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
  */
 body {
 	background-color: #00FFFF;
+	font-family: "Times New Roman", Verdana, sans-serif;
 	}
 	
 html {
