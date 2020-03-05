@@ -16,7 +16,23 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
  * 2. Remove the margin in Firefox and Safari.
  */
 body {
-	background-color: blue;
+	background-color: #00FFFF;
+	}
+	
+html {
+	font-size: 18px;
+	line-height: 1.2em;
+	font-family: "Times New Roman", Verdana, sans-serif;
+}
+
+h1 {
+	font-family: "Times New Roman", Verdana;
+	font-size: 1.82em;
+	text-align: center;
+}
+p {
+	font-size: 1em;
+	font-family: "Times New Roman", Verdana;
 }
 
 #content {
@@ -31,7 +47,6 @@ body {
 input.email {
 	 border: none;
 	 background: #f1f1f1;
-	 text-align: center;
 	 float: left;
 	 width: 95%;
 }
@@ -45,11 +60,19 @@ div.email {
 }
 #input-age-verification {
 	clear: left;
-	
+}
+input.checkbox {
+	float: left;
+	margin-right: 1em;
+	margin-top: .5em;
+	margin-bottom: .5em;
 }
 #input-email {
 	padding-top: 1em;
 	padding-bottom: 1em;
+}
+#input-submit {
+	clear: left;
 }
 
 
