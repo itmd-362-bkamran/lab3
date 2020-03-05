@@ -29,6 +29,7 @@ h1 {
 	font-family: "Times New Roman", Verdana;
 	font-size: 1.82em;
 	text-align: center;
+	padding: 1em;
 }
 p {
 	font-size: 1em;
@@ -73,6 +74,7 @@ input.checkbox {
 }
 #input-submit {
 	clear: left;
+	text-align: center;
 }
 
 
