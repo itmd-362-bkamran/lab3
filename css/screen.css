@@ -24,8 +24,14 @@ body {
 	background-color: white;
 	width: 80%;
 	height: 80%;
+	margin: auto;
+	text-align: center;
 }
-	
+
+input.email {
+	 border: none;
+	 background-color: grey;
+}
 
 
 button,
